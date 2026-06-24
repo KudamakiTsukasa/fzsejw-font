@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'FZSEJW';
+    src: url('http://154.9.252.184:8088/FZSEJW_GBK.woff2') format('woff2'),
+         url('http://154.9.252.184:8088/FZSEJW_GBK.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.se {
+    font-family: 'FZSEJW' !important;
+}
